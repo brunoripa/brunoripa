@@ -1,4 +1,4 @@
-Thanks to [Eddie Jaoude](https://github.com/eddiejaoude) for the inspiration ... this will be nicely improved &copy;
+[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoripa)](https://github.com/brunoripa/github-readme-stats)
 
 <p>
   <a href="https://twitter.com/brunoripa">
