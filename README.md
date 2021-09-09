@@ -1,4 +1,4 @@
-[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoripa&count_private=true)](https://brunoripa.com)
+[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoripa&theme=onedark&count_private=true)](https://brunoripa.com)
 
 <p>
   <a href="https://twitter.com/brunoripa">
